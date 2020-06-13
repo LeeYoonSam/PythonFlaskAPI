@@ -35,5 +35,5 @@ pytest
 
 ## Reference
 https://github.com/ahastudio/til/blob/master/python/20181214-setup-python-project.m
-https://github.com/ahastudio/CodingLife/tree/master/20190618/flaskd
+https://github.com/ahastudio/CodingLife/tree/master/20190618/flask
 https://github.com/ahastudio/CodingLife/tree/master/20190717/flask
